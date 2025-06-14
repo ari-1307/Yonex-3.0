@@ -1,0 +1,18 @@
+body {
+    background-color: #eeeeee;
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+h1 {
+    color: navy;
+}
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
